@@ -29,9 +29,9 @@ Engenharia de Dados (ETL com Python e Requests ,NoSQL- MongoDB ,Pipeline ,BigQue
 💬 Principais Soft Skills baseadas no Holland Test
 MapPreferências©
 
-Gosto de ideias essenciais e visionárias. Pense e aja rápido. Atento aos desenvolvimentos, procurando e detectando novas possibilidades e oportunidades de atuação.
-• Conceber: Possui pensamento conceitual e global. Gosto por objectivos estratégicos, aberto ao futuro, detectando novas tendências. Eles vão ao essencial com espírito sintético.
-• Avanço: Integrar e impulsionar as novas tendências detectadas. Preferem escolher novas opções e descobrir novas formas de alcançá-las (vanguarda). Eles estão abertos a mudanças, mesmo que sejam arriscadas.
+Gosta de ideias essenciais e visionárias. Pensa e aje rápido. Atento aos desenvolvimentos, procurando e detectando novas possibilidades e oportunidades de atuação.
+• Conceber: Possui pensamento conceitual e global. Gosto por objetivos estratégicos, aberto ao futuro, detectando novas tendências. Eles vão ao essencial com espírito sintético.
+• Avanço: Integrar e impulsionar as novas tendências detectadas. Preferem escolher novas opções e descobrir novas formas de alcançá-las (vanguarda). Abertos a mudanças, mesmo que sejam arriscadas.
 
 ---
 
