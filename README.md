@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👩🏻‍💻 Isabela Pantaleão
 
-**`Estudante de Engenharia de Dados `**
+**`Estudante de Engenharia de Dados em busca de uma oportunidade `**
 
  🔭 Python | SQL | NoSQL | Data Engineering
  
