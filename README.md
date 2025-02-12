@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  🔭 Python | SQL | NoSQL | Data Engineering
  
- Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+ Atualmente finalizando o graduação de Análise e Desenvolvimento de Sistemas e cursando na FIAP Ciência de Dados. 
 
  🌱 Aprendendo 
 Engenharia de Dados (ETL com Python e Requests ,NoSQL- MongoDB ,Pipeline ,BigQuery ,Numpy ,Pandas ,Apache Spark,Machine Learning com Spark,Apache Kafka,Google BigQuery).
