@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👩🏻‍💻 Isabela Pantaleão
 
-**`Estudante de Engenharia de Dados em busca de uma oportunidade `**
+**`Estudante de Engenharia de Dados `**
 
  🔭 Python | SQL | NoSQL | Data Engineering
  
@@ -26,12 +26,7 @@ Here are some ideas to get you started:
  🌱 Aprendendo 
 Engenharia de Dados (ETL com Python e Requests ,NoSQL- MongoDB ,Pipeline ,BigQuery ,Numpy ,Pandas ,Apache Spark,Machine Learning com Spark,Apache Kafka,Google BigQuery).
 
-💬 Principais Soft Skills baseadas no Holland Test
-MapPreferências©
 
-Gosta de ideias essenciais e visionárias. Pensa e aje rápido. Atento aos desenvolvimentos, procurando e detectando novas possibilidades e oportunidades de atuação.
-• Conceber: Possui pensamento conceitual e global. Gosto por objetivos estratégicos, aberto ao futuro, detectando novas tendências. Eles vão ao essencial com espírito sintético.
-• Avanço: Integrar e impulsionar as novas tendências detectadas. Preferem escolher novas opções e descobrir novas formas de alcançá-las (vanguarda). Abertos a mudanças, mesmo que sejam arriscadas.
 
 ---
 
