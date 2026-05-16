@@ -27,7 +27,7 @@ Currently focused on:
 - Cloud & Docker Ecosystems
 - Enterprise AI Solutions
 
-I enjoy creating real-world AI applications combining:
+I enjoy building real-world AI applications combining:
 - backend engineering
 - data engineering
 - LLM orchestration
