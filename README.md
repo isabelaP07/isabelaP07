@@ -174,37 +174,7 @@ Currently improving:
 
 ---
 
-## 📈 GitHub Stats
 
-<p>
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=isabelaP07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-
-<img 
-    align="left" 
-    alt="Top Languages" 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelaP07&theme=tokyonight&layout=compact&langs_count=8"
-/>
-
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
----
 
 ## 🔗 Connect With Me
 
